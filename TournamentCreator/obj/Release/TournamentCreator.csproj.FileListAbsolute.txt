@@ -1,0 +1,7 @@
+D:\Documents and Settings\Sharjeel\My Documents\Visual Studio 2010\Projects\TournamentCreator\TournamentCreator\bin\TournamentCreator.dll
+D:\Documents and Settings\Sharjeel\My Documents\Visual Studio 2010\Projects\TournamentCreator\TournamentCreator\bin\TournamentCreator.pdb
+D:\Documents and Settings\Sharjeel\My Documents\Visual Studio 2010\Projects\TournamentCreator\TournamentCreator\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Sharjeel\My Documents\Visual Studio 2010\Projects\TournamentCreator\TournamentCreator\obj\Release\TournamentCreator.dll
+D:\Documents and Settings\Sharjeel\My Documents\Visual Studio 2010\Projects\TournamentCreator\TournamentCreator\obj\Release\TournamentCreator.pdb
+D:\Documents and Settings\Sharjeel\My Documents\Visual Studio 2010\Projects\TournamentCreator\TournamentCreator\bin\mysql.data.dll
+C:\Users\thomas\Desktop\TournamentCreator\TournamentCreator\obj\Release\ResolveAssemblyReference.cache

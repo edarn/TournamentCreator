@@ -1,0 +1,245 @@
+html, body {border: 0; margin: 0; padding: 0;}
+p, ul, ol {margin: 0; padding: 0 0 18px 0;}
+
+body
+{
+background-color:#55453E;
+}
+
+#container {
+  background: url(../images/bg_top.jpg) repeat-x top left;
+  width: 100%;
+  
+}
+
+#bar {
+  width: 970px;
+  height: 50px;
+  text-align: center;/* IE fix to center the page */
+  margin: 0 auto;/* center the page in Firefox */
+}
+
+#barcontents {
+  width: 970px;
+  height: 50px;
+  text-align: right;/* IE fix to center the page */
+  margin: 0 auto;/* center the page in Firefox */
+  padding-top:20px;
+}
+
+
+#wrapper {
+  width: 950px;
+  background-color:#604E42;
+  border-top: #877065 10px solid;
+  border-left: #877065 10px solid;
+  border-right: #877065 10px solid;
+  border-bottom: #877065 10px solid;
+  margin-top:20px;
+  text-align: center;/* IE fix to center the page */
+  margin: 0 auto;/* center the page in Firefox */
+}
+
+#banner {
+  width: 970px;
+  background-color:#877065;
+  height: 130px;
+  text-align: center;/* IE fix to center the page */
+  margin: 0 auto;/* center the page in Firefox */
+  background-image : url(../images/banner.jpg);
+  
+}
+
+#sidebar
+{
+	float:left;
+	background-color:transparent;
+	width:350px;
+	
+}
+
+#contents
+{
+	float:right;
+	background-color:#ffffff;
+	width:600px;
+	
+}
+
+.sb_content {
+  text-align: left;
+  padding-left: 12px;
+  width: 268px;
+  
+}
+
+#navlist a {
+font: 1em arial, helvetica, sans-serif;
+
+font-weight: bold;
+  display: block;
+  height: 30px;
+  padding: 2px 2px 2px 24px;
+  border: none;
+  border-top: 1px solid #705A52;
+  border-bottom: 1px solid #3E322D;
+  background-color: transparent;
+  color: white;
+  font-size: 120%;
+  line-height: 30px;/* this value must match the height in order to center vertically the text*/
+  text-decoration: none;
+}
+
+#navlist a:hover {
+  color: #877065;
+  background-color: #443833;
+}
+
+#sidebar #navlist a.noborder {
+  border-bottom: none;
+}
+
+ .sb_content ul {
+  list-style-type: square;
+}
+
+#navigation
+{
+	border-left: 1px solid #705A52;
+	font-family:  arial, helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #ffffff;
+	height:30px;
+	text-align: left;
+	background-color: #604E42;
+}
+
+#menu
+{
+	font-family:  arial, helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+ ul li {list-style: none;}
+ 
+ 
+bannerInner
+{
+	text-align: left;
+	margin-left: 30px;
+	width:100%;
+}
+
+
+.post 
+{
+	font-family:  arial, helvetica, sans-serif;
+	font-size:12px;
+  display: block;
+  float: left;
+  width: 580px;
+  margin: 15px 0 40px;
+  padding: 0 15px;
+}
+
+.post .links {
+  display: block;
+  width: 95%;
+  height: 25px;
+  background-color: #FAFAFA;
+  border-top: #E2DBD8 1px dotted;
+  border-bottom: #E2DBD8 1px dotted;
+  color: #444444;
+  padding: 3px 10px;
+  line-height: 25px;
+  font-size: 85%;
+}
+
+.post a {
+	color: #55453E;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+.post a:hover {
+	color: #aacc88;
+	font-weight: bold;
+}
+
+.post h1
+{
+	font-size:30px;
+	color:#55453E;
+	font-family: serif;
+}
+
+.post p
+{
+	text-indent: 6px;
+	padding-left: 2px;
+}
+
+.alignleft {float: left;}
+
+td.frmTxt
+{
+	 width:40%; 
+	 text-align:left;
+	 vertical-align:top;
+}
+
+td.frmCont
+{
+	 width:60%; 
+	 text-align:left;
+	 vertical-align:top;
+	 
+}
+
+.caution
+{
+	color:Red;
+}
+
+.error
+{
+	font-weight: bold;	
+	
+	
+}
+
+theader
+{
+	width:100%;
+	text-align:left;
+	background-color:#877065;
+	color : White;
+}
+
+.post table thead a
+{
+	color : White;
+}
+
+.post table thead a:hover
+{
+	color : White;
+}
+
+.post table trLight
+{
+	background-color: #A8948A;
+}
+
+.post table trDark
+{
+	background-color: #ffffff;
+}
+
+.norecord
+{
+	text-align:left;
+	background-color:#A8948A;
+}
